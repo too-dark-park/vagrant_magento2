@@ -2,7 +2,7 @@
 
 add-apt-repository ppa:ondrej/php
 apt-get update
-apt-get install -y php7.2
+apt-get install -y php7.2 composer
 
 apt-get -y update
 apt-get -y install nginx
